@@ -1,24 +1,21 @@
-### Hi there 👋 I'm Slava, a Junior Full Stack Developer
-
-# Hi there 👋 I'm Slava, a passionate Web Developer!
-
+## Hi there 👋 I'm Slava, a Junior Full Stack Developer
+---
 - 🌱 I’m constantly learning and improving my skills.
-- 📫 How to reach me: slava@example.com
-- ⚡ Fun fact: I love hiking and exploring new places in my free time.
+- 📫 How to reach me: s.borisovbar@gmail.com
+- ⚡ Fun fact: I only go on vacation in winter because snowboarding is my love 🏂
 
 ## Languages and Tools:
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
-![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg)
-![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Next.js" width="30" height="30" />
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg | width=50 height=50)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg | width=50 height=50)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg | width=50 height=50)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg | width=50 height=50)
+![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg | width=50 height=50)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg | width=50 height=50)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg | width=50 height=50)
+![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg | width=50 height=50)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg | width=50 height=50)
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg | width=50 height=50)
 
 ## Projects:
 
