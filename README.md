@@ -1,24 +1,26 @@
 ## Hi there 👋 I'm Slava, a Junior Full Stack Developer
----
+
+...
+
 - 🌱 I’m constantly learning and improving my skills.
 - 📫 How to reach me: s.borisovbar@gmail.com
 - ⚡ Fun fact: I only go on vacation in winter because snowboarding is my love 🏂
+- 📘 I'm currently learning **Next.js** and **TypeScript**.
+
+...
+
 
 ## Connect with me:
 
-<a href="#">
-    <img src="svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
+ <a href="https://www.linkedin.com/in/viacheslav-borysov">
     <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="#">
+<a href="https://www.instagram.com/slava.borysov/">
+    <img src="svg/instagramm.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="http://t.me/Borysov_s">
     <img src="svg/telegramm.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>
-
-[![Facebook](https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/fb.svg)](https://www.facebook.com/BhuvaneshHingal) 
- [![Instagram](https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/ig.svg)](https://www.instagram.com/bhuvanesh_hingal/)
- [![Telegram](https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/tg.svg)](https://t.me/bhuvanesh_hingal)
 
 ## Languages and Tools:
 
@@ -38,15 +40,6 @@
 - 📓 [Phonebook app](https://borysovs.github.io/goit-react-hw-08-phonebook/)
 - 📽: [Film Finder](https://borysovs.github.io/goit-react-hw-05-movies/)
 
-## Open Source Contributions:
-
-- 🌐 [Contributing to OpenStreetMap](https://www.openstreetmap.org/user/SlavaOSM)
-
-## Connect with me:
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/slava)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/slava/)
-[![Twitter Profile](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/slava_dev)
 
 
 <!--
