@@ -18,6 +18,7 @@
 ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="30" height="30" />
 
 ## Projects:
 
