@@ -7,8 +7,14 @@
 ## Connect with me:
 
 <a href="#">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a> 
+  <a href="#">
+    <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/telegramm.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 [![Facebook](https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/fb.svg)](https://www.facebook.com/BhuvaneshHingal) 
  [![Instagram](https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/ig.svg)](https://www.instagram.com/bhuvanesh_hingal/)
