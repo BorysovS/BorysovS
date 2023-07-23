@@ -8,16 +8,16 @@
 
 ## Languages and Tools:
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Redux
-- Node.js
-- MongoDB
-- Express.js
-- Figma
-- Postman
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
+![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg)
+![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 ## Projects:
 
