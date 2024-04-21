@@ -31,7 +31,8 @@
 - 🍦 [Ice-cream Website](https://makson03.github.io/team-project/)
 - 📽️ [Filmoteka](https://konstantinyevchuk.github.io/Filmoteca_team_project/)
 - :clipboard: [TaskPro - Kanban app](https://vitababenko.github.io/command_project_frontend_task_pro/welcome)
-- :sparkles: [Commerce Project - web courses website](https://taobao-pinduoduo-yatsenko.netlify.app/)
+- :sparkles: [TaoBao - web courses website](https://taobao-pinduoduo-yatsenko.netlify.app/)
+- 📱 [NauticAI app] (https://play.google.com/store/apps/details?id=com.nauticai&hl=en-US&ah=I8OyWafGwkNvN53K3ZS8zRx06Is&pli=1)
 
 ## Projects:
 
