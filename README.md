@@ -26,20 +26,26 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" /> | <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="Next.js" width="50" height="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50" /> | <img src="https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express.js" width="120" height="50"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
 
-## Team Projects:
-
-- 🍦 [Ice-cream Website](https://makson03.github.io/team-project/)
-- 📽️ [Filmoteka](https://konstantinyevchuk.github.io/Filmoteca_team_project/)
-- :clipboard: [TaskPro - Kanban app](https://vitababenko.github.io/command_project_frontend_task_pro/welcome)
-- :sparkles: [TaoBao - web courses website](https://taobao-pinduoduo-yatsenko.netlify.app/)
-- 📱 [NauticAI app] (https://play.google.com/store/apps/details?id=com.nauticai&hl=en-US&ah=I8OyWafGwkNvN53K3ZS8zRx06Is&pli=1)
 
 ## Projects:
 
+- :sparkles: [TaoBao - web courses website](https://taobao-pinduoduo-yatsenko.netlify.app/)
+- 🔭 [Crypto-trade-tracker](https://msv-trade.vercel.app/)
+- [LAOOI](https://laooi.org/uk)
+- [Mobile-app](https://www.nauticcrypto.com/)
+
+  
+## Pet Projects:
+
+- 🍦 [Ice-cream Website](https://makson03.github.io/team-project/)
+- 📽️ [Filmoteka](https://konstantinyevchuk.github.io/Filmoteca_team_project/)
 - 💻 [Responsive Website](https://borysovs.github.io/goit-markup-hw-08/)
 - :mag: [Images Finder](https://borysovs.github.io/goit-react-hw-04-images/)
 - 📓 [Phonebook app](https://borysovs.github.io/goit-react-hw-08-phonebook/)
-- 📽: [Film Finder](https://borysovs.github.io/goit-react-hw-05-movies/)
+- :clipboard: [TaskPro - Kanban app](https://vitababenko.github.io/command_project_frontend_task_pro/welcome)
+- 📱 [NauticAI app] (https://play.google.com/store/apps/details?id=com.nauticai&hl=en-US&ah=I8OyWafGwkNvN53K3ZS8zRx06Is&pli=1)
+
+
 
 
 
